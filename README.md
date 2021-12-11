@@ -1,4 +1,4 @@
-### Hi there 👋
+### BigM8c's github 👋
 
 <!--
 **B1gM8c/B1gM8c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![B1gM8c's GitHub stats](https://github-readme-stats.vercel.app/api?username=B1gM8c&show_icons=true&theme=radical)
